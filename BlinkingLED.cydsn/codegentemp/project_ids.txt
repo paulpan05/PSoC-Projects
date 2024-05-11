@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d9c48285-e48d-43e7-9e10-96249890a18e
+C:\Users\perso\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|d077ccf1-db6c-4d51-b9a3-94c7ac464f59
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1e702c7a-2368-4770-97f4-2a6d12adec1d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bbdfa71d-f148-462e-b1e0-ebe699cb4d20
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|88b48f59-b2de-43a0-848e-114668e65a2f
+C:\Users\perso\OneDrive\Documents\PSoC Creator\PSoC5LP Projects\BlinkingLED.cydsn\BlinkingLED.cyprj|4ff7b72e-b5a0-463f-9c3c-77300a09d90b
